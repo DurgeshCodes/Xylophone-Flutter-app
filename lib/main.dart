@@ -34,7 +34,7 @@ Expanded key({int note,Color color}){
         (
         borderRadius: new BorderRadius.circular(10.0),
 
-        ),
+        ), child: null,
     ),
   );
 }
